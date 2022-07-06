@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header-section{
+    text-align: center;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1440;
+    height: 669;
+   
+
+
+}
+.header-tagline{
+    color: #fff;
+    font-size: 60px;
+    font-family: 'Inter', sans-serif;
+    
+}
+.titles{
+    color: #fff;
+}
+.link-button{
+    color: #fff;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 16px 16px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+.header-div {
+    text-align: center;
+    padding: 150px 200px;
+    color: aliceblue;
+}
+.donate-section{
+    text-align: center;
+    color: black;
+}
+.balck-tagline{
+    font-size: 45px;
+    font-family: 'Inter', sans-serif;  
+}
+.donate-section{
+    display: flex;
+    margin: 50px 200px 00px;
+    text-align: center;
+    
+}
+.amount{
+    width: 25%;
+    padding: 20px;
+    background-color: rgb(226, 223, 223);
+    border-radius: 5px;
+}
+
+
+
+    .box-1{
+    margin-left: 7px;
+    margin-right: 7px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #upper-text{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    color: #FF5959;
+    font-size: 44px;
+    
+   }
+
+    footer{
+        text-align: center;
+        color: #fff;
+        background-color: black;
+
+    }
