@@ -83,6 +83,83 @@
     border-radius: 5px;
 
 }
+#div-icon-boxs {
+    display: flex;
+    margin-top: 30px;
+}
+
+.dvr-right {
+    margin-right: 20px;
+}
+
+
+
+.image-box {
+    width: 33%;
+    padding: 20px;
+    background-color: #4f9da634;
+    border-radius: 5px;
+    text-align: left;
+}
+#bg-color1{
+    background-color: rgba(256, 89, 89, 10%);
+}
+
+#SVG-size {
+    width: 50px;
+}
+
+.newsletter {
+    background-color: aliceblue;
+    padding: 80px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 15px;
+}
+
+#form-1 {
+    display: flex;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+#email-input {
+    color: #aba0a0;
+    padding-left: 30px;
+    width: 75%;
+}
+
+#form {
+    border: none;
+    height: 70px;
+    width: 100%;
+    color: rgba(240, 248, 255, 0.603);
+    font-weight: 600px;
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+#sub-button {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 20%;
+    border: none;
+    background-color: #ff5959;
+    color: white;
+    text-align: center;
+}
+
+#done {
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+    color: aliceblue;
+    padding-top: 25px;
+    padding-right: 15px;
+    font-weight: 700;
+    font-size: 20px;
+
+}
 
 
 
